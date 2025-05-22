@@ -14,3 +14,14 @@ body {
     border: 5px solid white;
     border-radius: 100px;
 }
+
+.todo-conteudo{
+
+    width: 600px;
+    margin:auto;
+}
+
+.meuslinks{
+
+    text-align: center;
+}
